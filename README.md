@@ -11,11 +11,11 @@ The step i followed were:
 
 3.Univariate analysis
 
-![screenshot][https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot1.png]
-![screenshot][https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot2.png]
-![screenshot][https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot3.png]
-![screenshot][https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot4.png]
-![screenshot][https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot5.png]
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot1.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot2.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot3.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot4.png)
+![screenshot][(https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot5.png)
 4.bivariate analysis
 
 5.Dealing with missing values
