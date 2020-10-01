@@ -15,8 +15,15 @@ The step i followed were:
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot2.png)
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot3.png)
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot4.png)
-![screenshot][(https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot5.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot5.png)
+
 4.bivariate analysis
+
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot6.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot7.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot8.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot9.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot10.png)
 
 5.Dealing with missing values
 
