@@ -5,12 +5,19 @@ I have built a Linear regression model that predicts the sales and is saved in a
 
 The step i followed were:
 1.Loading the packages
+
 2.Looking at the dimensions and summary
+
 3.Univeriate analysis
+
 4.bivariate analysis
+
 5.Dealing with missing values
+
 6.Feature enginnering
+
 7.Model building
+
 8.Prediction
 
 
