@@ -14,18 +14,18 @@ Then i was ready to load the data in R and predict! Steps I followed were:
 
 3. Univariate analysis
 
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot1.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot2.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot3.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot4.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot5.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot1.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot2.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot3.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot4.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot5.png)
 
 4. bivariate analysis
 
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot6.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot7.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot8.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/Rplot10.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot6.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot7.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot8.png)
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot10.png)
 
 5. Dealing with missing values
 
