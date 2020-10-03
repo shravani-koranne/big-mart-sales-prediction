@@ -10,14 +10,14 @@ Using this model, BigMart will try to understand the properties of products and 
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/dataset%20overview.png)
 
 ## Packages Required
-   data.table -used for reading and manipulation of data 
+    data.table -used for reading and manipulation of data 
    
-   dplyr      -used for data manipulation and joining 
+    dplyr      -used for data manipulation and joining 
    
-   ggplot2    -used for ploting 
+    ggplot2    -used for ploting 
    
-   caret      -used for modeling 
+    caret      -used for modeling 
    
-   corrplot   -used for making correlation plot 
+    corrplot   -used for making correlation plot 
    
-   cowplot    -used for combining multiple plots 
+    cowplot    -used for combining multiple plots 
