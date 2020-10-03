@@ -5,12 +5,21 @@ This is one of the most famous data sets available to predict which locations pr
 
 Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
+## Data set 
+
+![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/dataset%20overview.png)
+
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/sales-pred-dashboard.PNG)
 
 ## Packages Required
    data.table -used for reading and manipulation of data 
+   
    dplyr      -used for data manipulation and joining 
+   
    ggplot2    -used for ploting 
+   
    caret      -used for modeling 
+   
    corrplot   -used for making correlation plot 
+   
    cowplot    -used for combining multiple plots 
