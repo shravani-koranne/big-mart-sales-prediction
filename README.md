@@ -9,8 +9,6 @@ Using this model, BigMart will try to understand the properties of products and 
 
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/dataset%20overview.png)
 
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/sales-pred-dashboard.PNG)
-
 ## Packages Required
    data.table -used for reading and manipulation of data 
    
