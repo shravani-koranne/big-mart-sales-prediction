@@ -1,38 +1,16 @@
 # big-mart-sales-prediction
-This is one of the most famous data sets available to predict which locations produce the most sales.I have explored features that can drive sales in a supermarket such as: Outlet_Type,Outlet_Size,Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier and Outlet_Establishment_Year.
-I have built a Linear regression model that predicts the sales and is saved in a csv file.
 
-I have prior experience of making creative dashboards in Excel.So when i first saw the data, I was excited to visualize it and to become familar with the data set.
+## Problem statement
+This is one of the most famous data sets available to predict which locations produce the most sales.The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities.The aim is to build a predictive model and find out the sales of each product at a particular store.
+
+Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
 ![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/sales-pred-dashboard.PNG)
 
-Then i was ready to load the data in R and predict! Steps I followed were:
-
-1. Loading the packages
-
-2. Looking at the dimensions and summary
-
-3. Univariate analysis
-
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot1.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot2.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot3.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot4.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot5.png)
-
-4. bivariate analysis
-
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot6.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot7.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot8.png)
-![screenshot](https://github.com/shravani-koranne/big-mart-sales-prediction/blob/master/plots/Rplot10.png)
-
-5. Dealing with missing values
-
-6. Feature enginnering
-
-7. Model building
-
-8. Prediction
-
-
+## Packages Required
+   data.table -used for reading and manipulation of data 
+   dplyr      -used for data manipulation and joining 
+   ggplot2    -used for ploting 
+   caret      -used for modeling 
+   corrplot   -used for making correlation plot 
+   cowplot    -used for combining multiple plots 
